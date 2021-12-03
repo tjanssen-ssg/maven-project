@@ -3,7 +3,7 @@
 <body>
 
 <h2>HTML Image</h2>
-<img src="https://geo.img.pmdstatic.net/fit/http.3A.2F.2Fprd2-bone-image.2Es3-website-eu-west-1.2Eamazonaws.2Ecom.2Fgeo.2F2019.2F05.2F29.2F415b9c13-bf23-48d0-a066-b65b5a5864ee.2Ejpeg/1150x647/background-color/ffffff/focus-point/923%2C396/quality/70/canada-20-choses-a-faire-au-royaume-des-grands-espaces.jpg" alt="Girl in a jacket" width="500" height="600">
+<img src="https://preferredbynature.org/sites/default/files/styles/1349x450/public/2019-03/alberta-2297204_1920.jpg?itok=fb46a76j" alt="Girl in a jacket" width="500" height="600">
 
 </body>
 </html>
