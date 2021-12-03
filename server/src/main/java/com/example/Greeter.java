@@ -1,7 +1,7 @@
 package com.example;
 
 
-public class Greeter {
+public class Greeter { 
 
   
   public Greeter() {
