@@ -1,6 +1,6 @@
 # simple maven-project
 
-wait to be polled 1
+wait to be polled 2
 
 today with idev IDATA
 
